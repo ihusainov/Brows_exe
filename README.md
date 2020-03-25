@@ -14,6 +14,8 @@ Thirdly, put two files "appurl.exe" and "appurl.ahk" along the path "C:\Program 
 appurl.ahk - this is the source from which appurl.exe
 
 In the fourth, in the browser, create a new bookmark and in the name use any name and in the address url write:
+
+
 appurl:////tsclient//E//myapp.exe    if you run from rdp session from disk E:\
 
 or
