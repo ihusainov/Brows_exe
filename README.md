@@ -8,7 +8,7 @@ Step by step:
 
 First you need to download and install the distribution https://www.autohotkey.com/ on computer where you need start exe app from browser.
 
-Secondly, you need run the appurl.reg file in the registry where the exe app startup script from the browser is located.
+Secondly, you need run the "appurl.reg" file in the registry where the exe app startup script from the browser is located.
 
 Thirdly, put two files "appurl.exe" and "appurl.ahk" along the path "C:\Program Files\AutoHotKey\"
 appurl.ahk - this is the source from which appurl.exe
