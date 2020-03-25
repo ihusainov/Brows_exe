@@ -20,7 +20,8 @@ appurl:////tsclient//E//myapp.exe
 
 or
 
-if you run from local folder
+if you run from local folder 
+
 appurl://C:/usr/myapp.cmd    
 
 myapp.cmd - as example is present
