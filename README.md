@@ -1,6 +1,5 @@
-# Brows_exe
+# Start-from-browser-exe
  Start exe from google chrome
-
 
 Once I needed to run the exe application from the Google Chrome browser. The browser did not want to start exe, he just downloaded it from the local disk. I went into research and found a way to start exe from Google Chrome browser
 
